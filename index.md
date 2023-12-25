@@ -6,3 +6,7 @@
 #This is some Python code
 print('Hello World!')
 ```
+
+- [ ] This is a list
+- [ ] These first 2 items are unchecked
+- [x] By changing `[ ]` to `[x]`, this item is checked
